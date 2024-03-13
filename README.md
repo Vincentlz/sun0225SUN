@@ -51,9 +51,9 @@
 
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的工程师。</p>
+<p>&emsp;&emsp;那些没有改变世界的人，是那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人。</p>
+<p>&emsp;&emsp;Those who have not changed the world are those who believed from the beginning that the world cannot be changed or that they cannot change the world.</strong></p>
 
 </td></tr>
 
