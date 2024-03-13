@@ -52,8 +52,8 @@
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;那些没有改变世界的人，是那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人。</p>
-<p>&emsp;&emsp;<strong>Those who have not changed the world are those who believed from the beginning that the world cannot be changed or that they cannot change the world.</strong></p>
+<p>&emsp;&emsp;那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人注定改变不了这个世界。</p>
+<p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
 
 </td></tr>
 
