@@ -91,7 +91,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-
+新博客正在开发中，尽情期待...
 <!-- END_SECTION:blog -->
 
 </td></tr>
